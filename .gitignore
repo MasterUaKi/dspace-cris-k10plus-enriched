@@ -1,0 +1,9 @@
+﻿# Version: 1.1.0 | Release Date: 2026-11-17
+target/
+*.jar
+*.bak
+*.log
+.DS_Store
+.idea/
+*.iml
+.vscode/
